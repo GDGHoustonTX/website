@@ -9,13 +9,13 @@
         "website":""
     },
     {
-        "name":"Aparna Shriraksha KN",
-        "designation":"Software Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/akaliyur",
-        "github":"https://github.com/akaliyur",
-        "profileImage":"",
-        "website":""
+        "name": "Sakhitha Kanyadhara",
+        "designation": "Software Developer",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/sakhitha-kanyadhara",
+        "github": "",
+        "profileImage": "",
+        "website": ""
     },
     {
         "name":"Roopa Rajala",
@@ -27,30 +27,29 @@
         "website":""
     },
     {
-        "name":"Sakhitha Kanyadhara",
-        "designation":"Software Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/sakhitha-kanyadhara",
-        "github":"",
-        "profileImage":"",
-        "website":""
+        "name": "Aparna Shriraksha",
+        "designation": "Software Developer",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/akaliyur",
+        "github": "https://github.com/akaliyur",
+        "profileImage": "",
+        "website": ""
+    }, {
+        "name": "Shrividya Ranjani",
+        "designation": "Student at University of Houston",
+        "twitter": "",
+        "linkedin": "shrividya-ranjani-kn-8832b5152?originalSubdomain=in",
+        "github": "",
+        "profileImage": "",
+        "website": ""
     },
     {
-        "name":"Kaushik Awala",
-        "designation":"Software Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/akaushikr",
-        "github":"https://github.com/awalakaushik",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Shrividya Ranjani KN",
-        "designation":"Student at University of Houston",
-        "twitter":"",
-        "linkedin":"shrividya-ranjani-kn-8832b5152?originalSubdomain=in",
-        "github":"",
-        "profileImage":"",
-        "website":""
+        "name": "Kaushik Awala",
+        "designation": "Software Developer",
+        "twitter": "https://twitter.com/kaushikawala",
+        "linkedin": "https://www.linkedin.com/in/akaushikr",
+        "github": "https://github.com/awalakaushik",
+        "profileImage": "",
+        "website": ""
     }
 ]
