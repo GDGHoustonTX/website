@@ -13,6 +13,14 @@
         "name":"GDG[x]",
         "link":"https://github.com/gdg-x",
         "img":"gdg-x.svg"
+    },
+    {
+        "name": "O'Reilly",
+        "link": "https://www.oreilly.com",
+        "img": "oreilly.png"
+    }, {
+        "name": "Jet Brains",
+        "link": "https://www.jetbrains.com/",
+        "img": "jetbrains.png"
     }
-
 ]

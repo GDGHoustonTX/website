@@ -7,15 +7,16 @@
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:30 AM",
+        "StartTime":"10:0 AM",
         "EndTime":"05:00 PM"
     },
     "EventVenue":"TBD",
     "EventVenueMapLink":"#",
-    "EventWebsite":"#",
+    "EventWebsite": "https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/265388262/",
     "EventDescription": "Study Jams are community-run, by local developers. Meet new like-minded people in your community and stay in touch online, and in person at future meetups!",
     "MeetupLink":"https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/265388262/",
     "RegistrationLink":"#",
-    "FBEventPageURL":"#"
+    "FBEventPageURL":"#",
+    "LinkedInPageURL": "#"
 }
 
