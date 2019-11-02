@@ -18,9 +18,20 @@
         "name": "O'Reilly",
         "link": "https://www.oreilly.com",
         "img": "oreilly.png"
-    }, {
+    }, 
+    {
         "name": "Jet Brains",
         "link": "https://www.jetbrains.com/",
         "img": "jetbrains.png"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/",
+        "img": "github.png"
+    },
+    {
+        "name": "Digital Crafts",
+        "link": "https://www.digitalcrafts.com/",
+        "img": "digitalcrafts.png"
     }
 ]
