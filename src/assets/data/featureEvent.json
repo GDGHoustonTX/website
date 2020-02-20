@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"Google Cloud Study Jam ",
-    "EventImage":"studyjam.png",
+    "FeatureEventName": "IWD Houston 2020",
+    "EventImage":"",
     "EventDate":{
-        "Date":"16",
-        "Month":"11",
-        "Year":"2019"
+        "Date":"21",
+        "Month":"03",
+        "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"10:0 AM",
-        "EndTime":"05:00 PM"
+        "StartTime":"09:0 AM",
+        "EndTime":"02:00 PM"
     },
-    "EventVenue": "1334 Brittmoore Rd, Houston, TX 77043",
-    "EventVenueMapLink": "https://goo.gl/maps/J46tJpMmupdRBoHYA",
-    "EventWebsite": "https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/265388262/",
-    "EventDescription": "Study Jams are community-run, by local developers. Meet new like-minded people in your community and stay in touch online, and in person at future meetups!",
-    "MeetupLink":"https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/265388262/",
-    "RegistrationLink": "https://commudle.com/gdg-houston/events/ml-cloud-study-jam-houston",
+    "EventVenue": "Philip Guthrie Hoffman Hall · Houston, TX Philip Guthrie Hoffman Hall, Room 232",
+    "EventVenueMapLink": "https://goo.gl/maps/MnPJFNAjeeh8THRB7",
+    "EventWebsite": "https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/268673166/",
+    "EventDescription": "International Women’s Day (IWD) celebrations range from general respect and appreciation toward women to a celebration of women’s economic, political, and social achievements.",
+    "MeetupLink":"https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/268673166/",
+    "RegistrationLink": "https://commudle.com/gdg-houston/events/iwd-houston-2020",
     "FBEventPageURL": "https://www.facebook.com/HoustonGDG/",
     "LinkedInPageURL": "https://ca.linkedin.com/company/gdg-houston"
 }
