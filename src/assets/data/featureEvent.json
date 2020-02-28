@@ -1,13 +1,13 @@
 {
     "FeatureEventName": "IWD Houston 2020",
-    "EventImage":"",
+    "EventImage":"IWD.png",
     "EventDate":{
         "Date":"21",
         "Month":"03",
         "Year":"2020"
     },
     "EventTime":{
-        "StartTime":"09:0 AM",
+        "StartTime":"09:00 AM",
         "EndTime":"02:00 PM"
     },
     "EventVenue": "Philip Guthrie Hoffman Hall · Houston, TX Philip Guthrie Hoffman Hall, Room 232",
