@@ -11,11 +11,11 @@
         "EndTime":"TBD"
     },
     "EventVenue": "Online",
-    "EventVenueMapLink": "https://goo.gl/maps/MnPJFNAjeeh8THRB7",
+    "EventVenueMapLink": "",
     "EventWebsite": "https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/268673166/",
     "EventDescription": "International Women’s Day (IWD) celebrations range from general respect and appreciation toward women to a celebration of women’s economic, technical and social achievements.",
     "MeetupLink":"https://www.meetup.com/Google-Developer-Group-GDG-Houston/events/268673166/",
-    "RegistrationLink": "https://commudle.com/gdg-houston/events/iwd-houston-2020",
+    "RegistrationLink": "#",
     "FBEventPageURL": "https://www.facebook.com/HoustonGDG/",
     "LinkedInPageURL": "https://www.linkedin.com/company/gdg-houston/"
 }
