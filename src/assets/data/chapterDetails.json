@@ -34,7 +34,13 @@
             "name": "Instagram",
             "link": "https://www.instagram.com/gdghouston/",
             "icon": "fab fa-instagram"
+        },
+        {
+            "name": "Slack",
+            "link": "https://gdg-houston.slack.com",
+            "icon": "fab fa-slack"
         }
+
     ],
     "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
 }
